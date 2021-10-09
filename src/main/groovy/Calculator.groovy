@@ -1,5 +1,5 @@
 class Calculator {
-
+    //available symbols
     private static final String[] allowedCharacters = "123456789()+-*%/**"
 
     static def calculate(String input) {
